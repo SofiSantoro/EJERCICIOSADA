@@ -1,0 +1,32 @@
+.card{
+    width: 400px;
+    height: 288px;
+    font-family: 'Signika', sans-serif;
+}
+main{
+    padding: 100px;
+    padding-top: 150px;
+    margin-left: 500px;
+    margin-top: 200px;
+    margin-right: 400px;
+    margin-bottom: 200px;
+    background-color: white;
+}
+body{
+    background-color: #F9F9FB;
+}
+.boton{
+    background-color: teal;
+    border-radius: 10%;
+    color: white;
+    width: 150px;
+    height: 40px;
+
+}
+h1{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}

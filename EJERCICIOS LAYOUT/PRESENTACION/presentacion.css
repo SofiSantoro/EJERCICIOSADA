@@ -1,0 +1,13 @@
+.rojo, p{
+    color:#BE3969
+}
+h1{
+    font-family:'Montserrat', sans-serif;
+    font-size:  120px;
+    font-weight: 800px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size:48px;
+    font-weight: 600px;
+}

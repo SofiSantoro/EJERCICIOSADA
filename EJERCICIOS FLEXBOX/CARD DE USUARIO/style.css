@@ -1,0 +1,96 @@
+html{
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6944ff;
+    padding: 15px;
+}
+
+.card{
+    height: 100%;
+    color: #324e63;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    width: 450px;
+    padding: 20px 30px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    flex-direction: column;
+}
+.profile{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 30px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.imagen{
+    display: flex;
+    height: 200px;
+    widt: 300px;
+}
+.ubicacion{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+.column{
+    display: flex;
+    justify-content: center;
+
+}
+.usa{
+    margin: 5px;
+}
+p{
+    text-align: center;
+}
+.color{
+    color: #6944ff;
+    font-weight: bold;
+}
+.numeros{
+    width: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.facebook,
+.twitter,
+.instagram,
+.github{
+    height: 80px;
+    width: 80px;
+}
+.redes{
+    width: 400px;
+    margin: 50px 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 200px;
+}
+.boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d5135a;
+    height: 80px;
+    width: 200px;
+    border-radius: 30px;
+    margin: 0px 0px 120px;
+}
+.follow{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #d5135a;
+    border: none;
+    color: white;
+    font-size: 25px;
+}

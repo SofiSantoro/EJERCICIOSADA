@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:100px;
+}
+p1{
+    color:#3C3C3C;
+    font-family:font-family: 'Raleway', sans-serif;
+}
+a{
+  color:#81D4D4;
+  text-decoration:none;
+}
+p{
+    font-family:font-family: 'Raleway', sans-serif;
+    }
+.italica{
+    font-style:italic;
+}
+.negrita, p3{
+    font-weight:bold;
+}

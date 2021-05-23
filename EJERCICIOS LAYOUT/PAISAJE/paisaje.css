@@ -1,0 +1,31 @@
+.cara{
+    font-size: 100px;
+}
+.mano{
+    font-size: 90px;
+}
+.bomba{
+    font-size: 80px;
+}
+.hamburguesa{
+    font-size: 70px;
+}
+.papas{
+    font-size: 60px;
+}
+.cerveza{
+    font-size: 50px;
+}
+.on{
+    font-size: 40px;
+}
+.caballo{
+    font-size: 30px;
+}
+.correr{
+    font-size: 20px;
+}
+.viento{
+    font-size: 10px;
+    display: inline-block;
+}

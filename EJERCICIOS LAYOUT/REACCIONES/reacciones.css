@@ -1,0 +1,19 @@
+section{
+    font-family: 'Montserrat', sans-serif;
+}
+h2, h3{
+    font-size: 45px;
+}
+h3{
+    color: #BE3969;
+}
+a{
+    text-decoration: none;
+}
+.fecha{
+    color: #9b9b9b;
+    font-size: 15px;
+}
+span{
+    background-color: #9b9b9b;
+}

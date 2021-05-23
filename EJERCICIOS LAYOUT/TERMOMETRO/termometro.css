@@ -1,0 +1,35 @@
+.cero{
+    color: #0000FF;
+    font-weight: bold;
+}
+.cinco{
+    color: #0099FE;
+}
+.diez{
+    color: #01CCFF;
+}
+.quince{
+    color: #D0F8FC;
+}
+.veinte{
+    color: #D0F8FC;
+}
+.veinticinco{
+    color: white;
+}
+.treinta{
+    color: #FDCC02;
+}
+.treintaycinco{
+    color: #FF9935;
+}
+.cuarenta{
+    color: #FE3300;
+}
+.cuarentaycinco{
+    color:  #d1350d;
+}
+.cincuenta{
+    color: red;
+    font-weight: bold;
+}
