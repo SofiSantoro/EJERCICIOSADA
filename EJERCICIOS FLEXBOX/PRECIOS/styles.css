@@ -1,0 +1,82 @@
+html,
+body{
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: #333333;
+    font-family: "Open Sans", sans-serif;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 300;
+}
+p,
+h2{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+p{
+    font-size: 15px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+    background-color: #333333;
+    justify-content: center;
+}
+.startup{
+    background-color: #585858;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 35px;
+    transition: background-color .2s;
+}
+.startup:hover{
+    background-color: #747272;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    background-color: #CDCDCD;
+    height: max-content;
+    border-radius: 20px;
+}
+.button1{
+    margin-top: 100px;
+}
+}
+.button2{
+    margin-top: 50px;
+}
+.boton{
+    color: #53759B;
+    background-color: #CDCDCD;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.price{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.list{
+    margin: 25px 0px;
+    font-size: 20px;
+}
