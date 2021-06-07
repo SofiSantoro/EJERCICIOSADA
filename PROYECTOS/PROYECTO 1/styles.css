@@ -64,6 +64,7 @@ a{
     background-color: #d6b4df;
 }
 
+
 .presentacion{
     display: flex;
     align-items: center;
@@ -108,14 +109,13 @@ h1{
     margin-top: 60px;
     margin-left: 60px;
 }
-/* Img svg quiero que sobresalga del color violeta*/
+/* Img svg quiero que la línea sea más fina*/
 .tilde{
     display: flex;
     height: 180px;
     width: 180px;
     position:absolute;
     left: 15;
-    bottom: 5s%;
     z-index: -1;
 }
 .conocimientos{
@@ -142,6 +142,7 @@ h2{
 }
 p{
     font-size: 20px;
+    font-weight: 100px;
 }
 
 .languages_icons{
@@ -175,6 +176,14 @@ p{
 }
 .iconos:hover{
     background-color: white;
+    border: 1px solid rgb(180 127 203);
+}
+
+.misproyectos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .comillas{
@@ -191,7 +200,7 @@ p{
     align-items: center;
     justify-content: center;
     padding: 60px;
-    margin-top: 25px;
+    margin-top: 80px;
 }
 .columna{
 width: 100%;
@@ -286,6 +295,9 @@ footer{
     list-style: none;
     justify-content:space-between;
 }
+
+/* Necesito que los iconos svg se vean blancos al colocar el cursor encima*/
+/* por qué se ve un "margen" circular que desfigra la imagen?*/
 .iconos_footer{
     height: 40px;
     width: 40px;
